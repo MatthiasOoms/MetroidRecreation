@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg9"
+   width="7808"
+   height="4688"
+   viewBox="0 0 7808 4688"
+   sodipodi:docname="MetroidFullLevelFinal.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs13" />
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.12504085"
+     inkscape:cx="4378.569"
+     inkscape:cy="2555.1649"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g15" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g15">
+    <image
+       width="7808"
+       height="4688"
+       preserveAspectRatio="none"
+       xlink:href="MetroidFullLevelFinal.bmp"
+       id="image17" />
+    <path
+       style="fill:#000000"
+       d="m 3248,352 h 48 v 16 h -48 z"
+       id="path9732" />
+    <path
+       style="fill:#000000"
+       d="m 2736,368 h 64 v 16 h -64 z"
+       id="path9730" />
+    <path
+       style="fill:#000000"
+       d="m 3184,416 h 48 v 16 h -48 z"
+       id="path9728" />
+    <path
+       style="fill:#000000"
+       d="m 3296,432 h 48 v 16 h -48 z"
+       id="path9726" />
+    <path
+       style="fill:#000000"
+       d="m 3232,480 h 64 v 16 h -64 z"
+       id="path9724" />
+    <path
+       style="fill:#000000"
+       d="m 2720,480 h 48 v 16 h -48 z"
+       id="path9722" />
+    <path
+       style="fill:#000000"
+       d="m 1952,488 h 63 v 22 h -63 z"
+       id="path9720" />
+    <path
+       style="fill:#000000"
+       d="m 2736,592 h 48 v 16 h -48 z"
+       id="path9718" />
+    <path
+       style="fill:#000000"
+       d="m 7600,608 h 64 v 16 h -64 z"
+       id="path9716" />
+    <path
+       style="fill:#000000"
+       d="m 6112,624 h 16 v 16 h -16 z"
+       id="path9714" />
+    <path
+       style="fill:#000000"
+       d="m 6016,624 h 16 v 16 h -16 z"
+       id="path9712" />
+    <path
+       style="fill:#000000"
+       d="m 4400,622 h 112 v 18 h -112 z"
+       id="path9710" />
+    <path
+       style="fill:#000000"
+       d="m 4272,622 h 64 v 18 h -64 z"
+       id="path9708" />
+    <path
+       style="fill:#000000"
+       d="m 4064,622 h 144 v 18 h -144 z"
+       id="path9706" />
+    <path
+       style="fill:#000000"
+       d="m 3232,624 h 48 v 16 h -48 z"
+       id="path9704" />
+    <path
+       style="fill:#000000"
+       d="m 2672,656 h 48 v 16 h -48 z"
+       id="path9702" />
+    <path
+       style="fill:#000000"
+       d="m 2784,672 h 48 v 16 h -48 z"
+       id="path9700" />
+    <path
+       style="fill:#000000"
+       d="m 4032,686 h 384 v -15 h -369 v -17 h 495 v 49 h -510 z"
+       id="path9698" />
+    <path
+       style="fill:#000000"
+       d="m 4592,672 h 62 v 62 h -62 z"
+       id="path9696" />
+    <path
+       style="fill:#000000"
+       d="m 7584,720 h 48 v 16 h -48 z"
+       id="path9694" />
+    <path
+       style="fill:#000000"
+       d="m 6880,720 h 16 v 16 h -16 z"
+       id="path9692" />
+    <path
+       style="fill:#000000"
+       d="m 6784,720 h 16 v 16 h -16 z"
+       id="path9690" />
+    <path
+       style="fill:#000000"
+       d="m 6064,656 h 16 v 80 h -16 z"
+       id="path9688" />
+    <path
+       style="fill:#000000"
+       d="m 3696,641 h 16 v 95 h -16 z"
+       id="path9686" />
+    <path
+       style="fill:#000000"
+       d="m 2720,720 h 64 v 16 h -64 z"
+       id="path9684" />
+    <path
+       style="fill:#000000"
+       d="m 6816,704 h 16 v -16 h 16 v 16 h 16 v 48 h -48 z"
+       id="path9682" />
+    <path
+       style="fill:#000000"
+       d="m 3248,736 h 64 v 16 h -64 z"
+       id="path9680" />
+    <path
+       style="fill:#000000"
+       d="m 3248,832 h 48 v 16 h -48 z"
+       id="path9678" />
+    <path
+       style="fill:#000000"
+       d="m 2736,832 h 48 v 16 h -48 z"
+       id="path9676" />
+    <path
+       style="fill:#000000"
+       d="m 3184,896 h 48 v 16 h -48 z"
+       id="path9674" />
+    <path
+       style="fill:#000000"
+       d="m 2672,896 h 48 v 16 h -48 z"
+       id="path9672" />
+    <path
+       style="fill:#000000"
+       d="m 3296,912 h 48 v 16 h -48 z"
+       id="path9670" />
+    <path
+       style="fill:#000000"
+       d="m 2784,912 h 48 v 16 h -48 z"
+       id="path9668" />
+    <path
+       style="fill:#000000"
+       d="m 3232,960 h 64 v 16 h -64 z"
+       id="path9666" />
+    <path
+       style="fill:#000000"
+       d="m 2720,960 h 64 v 16 h -64 z"
+       id="path9664" />
+    <path
+       style="fill:#000000"
+       d="m 7552,1024 h 48 v 16 h -48 z"
+       id="path9662" />
+    <path
+       style="fill:#000000"
+       d="m 2688,1024 h 48 v 16 h -48 z"
+       id="path9660" />
+    <path
+       style="fill:#000000"
+       d="m 3248,1072 h 48 v 16 h -48 z"
+       id="path9658" />
+    <path
+       style="fill:#000000"
+       d="m 7600,1088 h 64 v 16 h -64 z"
+       id="path9656" />
+    <path
+       style="fill:#000000"
+       d="m 2736,1088 h 64 v 16 h -64 z"
+       id="path9654" />
+    <path
+       style="fill:#000000"
+       d="m 3184,1136 h 48 v 16 h -48 z"
+       id="path9652" />
+    <path
+       style="fill:#000000"
+       d="m 3296,1152 h 48 v 16 h -48 z"
+       id="path9650" />
+    <path
+       style="fill:#000000"
+       d="m 7584,1200 h 48 v 16 h -48 z"
+       id="path9648" />
+    <path
+       style="fill:#000000"
+       d="m 3232,1200 h 64 v 16 h -64 z"
+       id="path9646" />
+    <path
+       style="fill:#000000"
+       d="m 2720,1200 h 48 v 16 h -48 z"
+       id="path9644" />
+    <path
+       style="fill:#000000"
+       d="m 7600,1312 h 48 v 16 h -48 z"
+       id="path9642" />
+    <path
+       style="fill:#000000"
+       d="m 3248,1312 h 48 v 16 h -48 z"
+       id="path9640" />
+    <path
+       style="fill:#000000"
+       d="m 2736,1312 h 48 v 16 h -48 z"
+       id="path9638" />
+    <path
+       style="fill:#000000"
+       d="m 7536,1376 h 48 v 16 h -48 z"
+       id="path9636" />
+    <path
+       style="fill:#000000"
+       d="m 3184,1376 h 48 v 16 h -48 z"
+       id="path9634" />
+    <path
+       style="fill:#000000"
+       d="m 2672,1376 h 48 v 16 h -48 z"
+       id="path9632" />
+    <path
+       style="fill:#000000"
+       d="m 7648,1392 h 48 v 16 h -48 z"
+       id="path9630" />
+    <path
+       style="fill:#000000"
+       d="m 3296,1392 h 48 v 16 h -48 z"
+       id="path9628" />
+    <path
+       style="fill:#000000"
+       d="m 2784,1392 h 48 v 16 h -48 z"
+       id="path9626" />
+    <path
+       style="fill:#000000"
+       d="m 7584,1440 h 64 v 16 h -64 z"
+       id="path9624" />
+    <path
+       style="fill:#000000"
+       d="m 3232,1440 h 64 v 16 h -64 z"
+       id="path9622" />
+    <path
+       style="fill:#000000"
+       d="m 2720,1440 h 64 v 16 h -64 z"
+       id="path9620" />
+    <path
+       style="fill:#000000"
+       d="m 7552,1504 h 48 v 16 h -48 z"
+       id="path9618" />
+    <path
+       style="fill:#000000"
+       d="m 3216,1520 h 64 v 16 h -64 z"
+       id="path9616" />
+    <path
+       style="fill:#000000"
+       d="m 7600,1568 h 64 v 16 h -64 z"
+       id="path9614" />
+    <path
+       style="fill:#000000"
+       d="m 3361,689 h -49 v -18 h 143 v 47 h 65 v 35 h 255 v 30 h 17 v -30 h 32 v -67 h 14 v 66 h 32 v 8 h 35 v -73 h 15 v 31 h 495 v 64 h 256 v -31 h 129 v -15 h 63 v -65 h 385 v 49 h 64 v 34 h 128 v -35 h 63 v 25 h 32 v -25 h 32.5 32.5 v 62 h 95 v -31 h -63 v -33 h 127 v 27 h 31 v -26 h 65 v 64 h 97 v -30 h -65 v -33 h 64 v -15 h 33 v 32 h 16 v 15 h -16 v 31 h 191 v -30 h -14 v -16 h 13 v -33 h 34 v 16 h 127 v -65 h -15 v -14 h 142 v 80 h 66 v -33 h 128 v 32 h 63 v -15 h 33 v 32 h 16 v 16 h -16 v 30 h 192 v -79 h 30 v 16 h 64 v 25 h 34 v -24 h 63 v 62 h 95 v -32 h -62 v -31 h 63 v 31 h 128 v -14 h 63 v -64 h 148 v 18 h -49 v 416 h -49 v -48 h -992 v 48 h -33 v -65 h -158 v 63 h 80 v 18 h -33 v 31 h 272 v 16 h -48 v 63 h 829 v -63 h -46 v -17 h 224 v 16 h -46 v 112 h 47 v 16 h -48 v 290 h -63 v -67 h -21.5501 l -14.8998,15 H 7389 v -13 h -83.5536 l -13.8928,14 H 7264 v -14 h -85.5501 l -14.8998,15 H 7135 v -17 h -82.5417 l -17.9166,18 H 7006 v -15 h -80.5501 l -14.8998,15 H 6878 v -17 h -81.5536 l -13.8928,14 H 6754 v -15 h -85.5469 l -15.9062,16 H 6625 v -13 h -87.5501 l -14.8998,15 H 6495 v -17 h -110 v 64 h -18 v -65 h -78 v 65 h -18 v -64 h -115.5469 l -15.9062,16 H 6112 v -17 h -88.5469 l -15.9062,16 H 5983 v -16 h -83.5442 l -16.9116,17 H 5854 v -15 h -82.5469 l -15.9062,16 H 5728 v 48 h -320 v -64 h -23.5469 l -15.9062,16 H 5344 v -17 h -86.5442 l -16.9116,17 H 5216 v -15 h -87.5536 l -13.8928,14 H 5088 v -16 h -88.5501 l -14.8998,15 H 4961 v -15 h -83.5442 l -16.9116,17 H 4832 v -16 h -87.5469 l -15.9062,16 H 4704 v 47 h -320 v -63 h -18.5442 l -16.9116,17 H 4320 v -19 h -84.5469 l -15.9062,16 H 4193 v -16 h -84.5442 l -16.9116,17 H 4065 v -15 h -85.5469 l -15.9062,16 H 3937 v -16 h -86.5469 l -15.9062,16 H 3808 v -20 h -79.5375 l -19.925,20 H 3681 v -18 h -85.5417 l -17.9166,18 H 3553 v -19 h -81.5395 l -18.921,19 H 3425 v 49 h -64 z"
+       id="path9612" />
+    <path
+       style="fill:#000000"
+       d="m 7120,1584 h 16 v 16 h -16 z"
+       id="path9610" />
+    <path
+       style="fill:#000000"
+       d="m 6608,1584 h 16 v 16 h -16 z"
+       id="path9608" />
+    <path
+       style="fill:#000000"
+       d="m 5072,1584 h 16 v 16 h -16 z"
+       id="path9606" />
+    <path
+       style="fill:#000000"
+       d="m 3248,1584 h 48 v 16 h -48 z"
+       id="path9604" />
+    <path
+       style="fill:#000000"
+       d="m 2720,1584 h 48 v 16 h -48 z"
+       id="path9602" />
+    <path
+       style="fill:#000000"
+       d="m 7008,1648 h 64 v 16 h -64 z"
+       id="path9600" />
+    <path
+       style="fill:#000000"
+       d="m 6496,1648 h 64 v 16 h -64 z"
+       id="path9598" />
+    <path
+       style="fill:#000000"
+       d="m 4960,1648 h 64 v 16 h -64 z"
+       id="path9596" />
+    <path
+       style="fill:#000000"
+       d="m 6912,1664 h 64 v 16 h -64 z"
+       id="path9594" />
+    <path
+       style="fill:#000000"
+       d="m 4096,1664 h 64 v 16 h -64 z"
+       id="path9592" />
+    <path
+       style="fill:#000000"
+       d="m 3840,1664 h 64 v 16 h -64 z"
+       id="path9590" />
+    <path
+       style="fill:#000000"
+       d="m 7584,1680 h 48 v 16 h -48 z"
+       id="path9588" />
+    <path
+       style="fill:#000000"
+       d="m 7152,1680 h 16 v -16 h 64 v 16 h -16 v 16 h -64 z"
+       id="path9586" />
+    <path
+       style="fill:#000000"
+       d="m 6640,1680 h 16 v -16 h 64 v 16 h -16 v 16 h -64 z"
+       id="path9584" />
+    <path
+       style="fill:#000000"
+       d="m 6368,1680 h 16 v 16 h -16 z"
+       id="path9582" />
+    <path
+       style="fill:#000000"
+       d="m 6272,1680 h 16 v 16 h -16 z"
+       id="path9580" />
+    <path
+       style="fill:#000000"
+       d="m 5104,1680 h 16 v -16 h 64 v 16 h -16 v 16 h -64 z"
+       id="path9578" />
+    <path
+       style="fill:#000000"
+       d="m 7344,1680 h 32 v 32 h -32 z"
+       id="path9576" />
+    <path
+       style="fill:#000000"
+       d="m 7264,1696 h 32 v 16 h -32 z"
+       id="path9574" />
+    <path
+       style="fill:#000000"
+       d="m 6976,1696 h 16 v 16 h -16 z"
+       id="path9572" />
+    <path
+       style="fill:#000000"
+       d="m 6848,1696 h -64 v -16 h 96 v 32 h -32 z"
+       id="path9570" />
+    <path
+       style="fill:#000000"
+       d="m 6304,1664 h 16 v -16 h 16 v 16 h 16 v 48 h -48 z"
+       id="path9568" />
+    <path
+       style="fill:#000000"
+       d="m 6080,1696 h -64 v -16 h 96 v 32 h -32 z"
+       id="path9566" />
+    <path
+       style="fill:#000000"
+       d="m 5792,1696 h 96 v -16 h 64 v 16 h -32 v 16 h -128 z"
+       id="path9564" />
+    <path
+       style="fill:#000000"
+       d="m 5296,1680 h 32 v 32 h -32 z"
+       id="path9562" />
+    <path
+       style="fill:#000000"
+       d="m 5216,1696 h 32 v 16 h -32 z"
+       id="path9560" />
+    <path
+       style="fill:#000000"
+       d="m 4768,1696 h 96 v -16 h 64 v 16 h 16 v 16 h -16 v -16 h -32 v 16 h -128 z"
+       id="path9558" />
+    <path
+       style="fill:#000000"
+       d="m 4272,1680 h 32 v 32 h -32 z"
+       id="path9556" />
+    <path
+       style="fill:#000000"
+       d="m 4192,1696 h 32 v 16 h -32 z"
+       id="path9554" />
+    <path
+       style="fill:#000000"
+       d="m 4032,1696 h -64 v -16 h 96 v 32 h -32 z"
+       id="path9552" />
+    <path
+       style="fill:#000000"
+       d="m 3776,1696 h -64 v -16 h 96 v 32 h -32 z"
+       id="path9550" />
+    <path
+       style="fill:#000000"
+       d="m 3488,1696 h 96 v -16 h 64 v 16 h -32 v 16 h -128 z"
+       id="path9548" />
+    <path
+       style="fill:#000000"
+       d="m 3232,1696 h 64 v 16 h -64 z"
+       id="path9546" />
+    <path
+       style="fill:#000000"
+       d="m 2736,1696 h 64 v 16 h -64 z"
+       id="path9544" />
+    <path
+       style="fill:#000000"
+       d="m 5552,1792 h 48 v 16 h -48 z"
+       id="path9542" />
+    <path
+       style="fill:#000000"
+       d="m 3248,1792 h 48 v 16 h -48 z"
+       id="path9540" />
+    <path
+       style="fill:#000000"
+       d="m 2736,1792 h 48 v 16 h -48 z"
+       id="path9538" />
+    <path
+       style="fill:#000000"
+       d="m 5488,1856 h 48 v 16 h -48 z"
+       id="path9536" />
+    <path
+       style="fill:#000000"
+       d="m 3184,1856 h 48 v 16 h -48 z"
+       id="path9534" />
+    <path
+       style="fill:#000000"
+       d="m 2672,1856 h 48 v 16 h -48 z"
+       id="path9532" />
+    <path
+       style="fill:#000000"
+       d="m 5600,1872 h 48 v 16 h -48 z"
+       id="path9530" />
+    <path
+       style="fill:#000000"
+       d="m 3296,1872 h 48 v 16 h -48 z"
+       id="path9528" />
+    <path
+       style="fill:#000000"
+       d="m 2784,1872 h 48 v 16 h -48 z"
+       id="path9526" />
+    <path
+       style="fill:#000000"
+       d="m 5536,1920 h 64 v 16 h -64 z"
+       id="path9524" />
+    <path
+       style="fill:#000000"
+       d="m 3232,1920 h 64 v 16 h -64 z"
+       id="path9522" />
+    <path
+       style="fill:#000000"
+       d="m 2720,1920 h 64 v 16 h -64 z"
+       id="path9520" />
+    <path
+       style="fill:#000000"
+       d="m 5504,1984 h 48 v 16 h -48 z"
+       id="path9518" />
+    <path
+       style="fill:#000000"
+       d="m 3248,2032 h 48 v 16 h -48 z"
+       id="path9516" />
+    <path
+       style="fill:#000000"
+       d="m 2736,2032 h 48 v 16 h -48 z"
+       id="path9514" />
+    <path
+       style="fill:#000000"
+       d="m 5552,2048 h 64 v 16 h -64 z"
+       id="path9512" />
+    <path
+       style="fill:#000000"
+       d="m 3184,2096 h 48 v 16 h -48 z"
+       id="path9510" />
+    <path
+       style="fill:#000000"
+       d="m 2672,2096 h 48 v 16 h -48 z"
+       id="path9508" />
+    <path
+       style="fill:#000000"
+       d="m 3296,2112 h 48 v 16 h -48 z"
+       id="path9506" />
+    <path
+       style="fill:#000000"
+       d="m 2784,2112 h 48 v 16 h -48 z"
+       id="path9504" />
+    <path
+       style="fill:#000000"
+       d="m 5536,2160 h 48 v 16 h -48 z"
+       id="path9502" />
+    <path
+       style="fill:#000000"
+       d="m 3232,2160 h 64 v 16 h -64 z"
+       id="path9500" />
+    <path
+       style="fill:#000000"
+       d="m 2720,2160 h 64 v 16 h -64 z"
+       id="path9498" />
+    <path
+       style="fill:#000000"
+       d="m 3248,2272 h 48 v 16 h -48 z"
+       id="path9496" />
+    <path
+       style="fill:#000000"
+       d="m 2736,2272 h 48 v 16 h -48 z"
+       id="path9494" />
+    <path
+       style="fill:#000000"
+       d="m 3184,2336 h 48 v 16 h -48 z"
+       id="path9492" />
+    <path
+       style="fill:#000000"
+       d="m 2672,2336 h 48 v 16 h -48 z"
+       id="path9490" />
+    <path
+       style="fill:#000000"
+       d="m 3296,2352 h 48 v 16 h -48 z"
+       id="path9488" />
+    <path
+       style="fill:#000000"
+       d="m 2784,2352 h 48 v 16 h -48 z"
+       id="path9486" />
+    <path
+       style="fill:#000000"
+       d="m 3232,2400 h 64 v 16 h -64 z"
+       id="path9484" />
+    <path
+       style="fill:#000000"
+       d="m 2720,2400 h 64 v 16 h -64 z"
+       id="path9482" />
+    <path
+       style="fill:#000000"
+       d="m 2736,2512 h 48 v 16 h -48 z"
+       id="path9480" />
+    <path
+       style="fill:#000000"
+       d="m 4576,2544 h 16 v 16 h -16 z"
+       id="path9478" />
+    <path
+       style="fill:#000000"
+       d="m 4480,2544 h 16 v 16 h -16 z"
+       id="path9476" />
+    <path
+       style="fill:#000000"
+       d="m 3232,2544 h 48 v 16 h -48 z"
+       id="path9474" />
+    <path
+       style="fill:#000000"
+       d="m 2672,2576 h 48 v 16 h -48 z"
+       id="path9472" />
+    <path
+       style="fill:#000000"
+       d="m 2784,2592 h 48 v 16 h -48 z"
+       id="path9470" />
+    <path
+       style="fill:#000000"
+       d="m 4528,2576 h 16 v 80 h -16 z"
+       id="path9468" />
+    <path
+       style="fill:#000000"
+       d="m 2720,2640 h 64 v 16 h -64 z"
+       id="path9466" />
+    <path
+       style="fill:#000000"
+       d="m 4768,2648 h 63 v 22 h -63 z"
+       id="path9464" />
+    <path
+       style="fill:#000000"
+       d="m 3248,2656 h 64 v 16 h -64 z"
+       id="path9462" />
+    <path
+       style="fill:#000000"
+       d="m 2736,2752 h 48 v 16 h -48 z"
+       id="path9460" />
+    <path
+       style="fill:#000000"
+       d="m 2672,2816 h 48 v 16 h -48 z"
+       id="path9458" />
+    <path
+       style="fill:#000000"
+       d="m 2784,2832 h 48 v 16 h -48 z"
+       id="path9456" />
+    <path
+       style="fill:#000000"
+       d="m 2720,2880 h 64 v 16 h -64 z"
+       id="path9454" />
+    <path
+       style="fill:#000000"
+       d="m 2736,2992 h 48 v 16 h -48 z"
+       id="path9452" />
+    <path
+       style="fill:#000000"
+       d="m 2672,3056 h 48 v 16 h -48 z"
+       id="path9450" />
+    <path
+       style="fill:#000000"
+       d="m 2784,3072 h 48 v 16 h -48 z"
+       id="path9448" />
+    <path
+       style="fill:#000000"
+       d="m 2720,3120 h 64 v 16 h -64 z"
+       id="path9446" />
+    <path
+       style="fill:#000000"
+       d="m 2688,3184 h 48 v 16 h -48 z"
+       id="path9444" />
+    <path
+       style="fill:#000000"
+       d="m 2736,3248 h 64 v 16 h -64 z"
+       id="path9442" />
+    <path
+       style="fill:#000000"
+       d="m 1503,3280 h 33 v 16 h -33 z"
+       id="path9440" />
+    <path
+       style="fill:#000000"
+       d="m 1408,3280 h 32 v 16 h -32 z"
+       id="path9438" />
+    <path
+       style="fill:#000000"
+       d="m 736,3264 h 16 v -32 h 16 v 112 h -32 z"
+       id="path9436" />
+    <path
+       style="fill:#000000"
+       d="m 656,3232 h 16 v 32 h 16 v 80 h -32 z"
+       id="path9434" />
+    <path
+       style="fill:#000000"
+       d="m 2720,3360 h 48 v 16 h -48 z"
+       id="path9432" />
+    <path
+       style="fill:#000000"
+       d="m 512,3344 h -16 v -32 h -16 v -64 h 64 v 32 h 16 v 32 h 16 v 64 h -64 z"
+       id="path9430" />
+    <path
+       style="fill:#000000"
+       d="m 1456,3472 h 48 v 16 h -48 z"
+       id="path9428" />
+    <path
+       style="fill:#000000"
+       d="m 1392,3536 h 48 v 16 h -48 z"
+       id="path9426" />
+    <path
+       style="fill:#000000"
+       d="m 1504,3552 h 48 v 16 h -48 z"
+       id="path9424" />
+    <path
+       style="fill:#000000"
+       d="m 1440,3600 h 64 v 16 h -64 z"
+       id="path9422" />
+    <path
+       style="fill:#000000"
+       d="m 1456,3712 h 48 v 16 h -48 z"
+       id="path9420" />
+    <path
+       style="fill:#000000"
+       d="m 1392,3776 h 48 v 16 h -48 z"
+       id="path9418" />
+    <path
+       style="fill:#000000"
+       d="m 1504,3792 h 48 v 16 h -48 z"
+       id="path9416" />
+    <path
+       style="fill:#000000"
+       d="m 1440,3840 h 64 v 16 h -64 z"
+       id="path9414" />
+    <path
+       style="fill:#000000"
+       d="m 1456,3952 h 48 v 16 h -48 z"
+       id="path9412" />
+    <path
+       style="fill:#000000"
+       d="m 1392,4016 h 48 v 16 h -48 z"
+       id="path9410" />
+    <path
+       style="fill:#000000"
+       d="m 1504,4032 h 48 v 16 h -48 z"
+       id="path9408" />
+    <path
+       style="fill:#000000"
+       d="m 1440,4080 h 64 v 16 h -64 z"
+       id="path9406" />
+    <path
+       style="fill:#000000"
+       d="m 1440,4224 h 48 v 16 h -48 z"
+       id="path9404" />
+    <path
+       style="fill:#000000"
+       d="m 1456,4336 h 64 v 16 h -64 z"
+       id="path9402" />
+    <path
+       style="fill:#000000"
+       d="m 1569,4289 h -49 v -17 h 240 v -31 h 48 v -18 h -16 v -30 h -48 v -32 h -127 v 64 h -49 v -848 h -32 v -65 h 144 v 17 h -47 v 63 h 958 v -63 h -64 v -17 h 177 v 16 h -47 v 96 h 191 v -79 h -33 v -17 h 33 V 1649 h -48 v -18 h 417 v 19 h -49 v 110 h 49 v 16 h -49 v 224 h 48 v 17 h -47 v 222 h 47 v 17 h -48 v 208 h 65 v 16 h -66 v 127 h 50 v 18 h -48 v 79 h 191 v -95 h -48 v -18 h 161 v 19 h -48 v 62 h 478 v -66 h 63 v 58 h 34 v -58 h 63 v 26 h 32 v -8 h 66 v 48 h 253 v -50 h 35 v 34 h 15 v 16 h -16 v 32 h 191 v -32 h -16 v -15 h 16 v -35 h 33 v 17 h 64 v 65 h 127 v -63 h 64 v -35 h 63 v 58 h 34 v -56 h 64 v 24 h 31 v -8 h 65 v 48 h 224 v -64 h -64 v -15 h 336 v -98 h -224 v 50 h -48 v -50 h -129 v -30.4499 L 5264.453,2479 h -16.9112 l -16.5388,16.4529 -15.003,-14.9028 -15,14.8998 V 2512 h -18 v -15 h -286 v -30.4531 L 4881.4558,2482 h -19.9116 L 4846,2497.4531 4830.0055,2481.5524 4817,2494.4422 V 2511 h -16 v -15 h -32 v -32.4558 L 4752.4582,2480 h -16.9164 l -16.5388,16.4529 -15.003,-14.9028 -15,14.8998 V 2512 h -17 v -32 h -255 v 17 h -34 v -32.4464 L 4369.4498,2478 h -20.9102 l -17.5336,17.4523 -14.0039,-13.8966 L 4304,2494.4422 V 2511 h -15 v -16 h -33 v -29.4499 L 4241.453,2480 h -18.9112 l -16.5388,16.4529 -15.0012,-14.9011 L 4177,2495.4464 V 2511 h -17 v -16 h -288 v -28.4464 L 3858.4498,2480 h -19.9056 L 3823,2495.4531 3807.0016,2479.5485 3792,2494.4499 V 2510 h -15 v -16 h -33 v -29.4422 L 3731.4462,2477 h -18.9066 l -17.5354,17.4541 -15.0042,-14.904 -15,14.8998 V 2511 h -17 v -49.4531 L 3632.4558,2477 h -15.9162 l -17.5354,17.4541 -15.0058,-14.9056 L 3568,2495.4531 V 2512 h -16 v -18 h -32 v -27.4531 L 3504.4558,2482 h -17.9088 l -14.5486,14.4515 -15.9968,-15.903 L 3441,2495.4499 V 2513 h -16 v 32 h -65 v -896 h -48 v -17 h 176 v 16 h -64 v 63 h -16 v 34 h 496 496 v -33 h -16 v -64 h -33 v -15 h 417 v 17 h -65 v 62 h -15 v 32 h 736 v -32 h -16 v -63 h -32 v -18 h 176 v 17 h -81 v 111 h 50 v 17 h -49 v 288 h -47 v -47 h -480 v 47 h -34 v -64 h -161 v 64 h 82 v 16 h -32 v 32 h 272 v 17 h -48 v 63 h 319 v -63 h -47 v -17 h 224 v 16 h -47 v 96 h 191 v -80 h -32 v -15 h 32 v -480 h -40.5578 l -12.8844,13 H 5585 v -14 h -18 v -16 h 225 v 16 h -64 v 64 h -16 v 32 h 497 v -64 h -65 v -16 h 96 v 32 h 17 v 16 h -17 v 33 h 191 v -82 h 33 v 33 h 17 v 18 h -17 v 30 h 1009 v -32 h -17 v -63 h -31 v -18 h 144 v 18 h -50 v 96 h 192 v -80 h -31 v -16 h 32 v -464 h -32 v -16 h 33 V 705 h -33 v -16 h 32 V 544 h -111 v 17 h -50 v -16 h -31 v 79 h -96 v -48 h -130 v 64 h -63 v 15 h -256 v -95 h -78 v 65 h -18 v -65 h -77 v 64 h -19 v -64 h -64 v 47 h -63 v 65 h -128 v -65 h -66 v 15 h -143 v -15 h -16 v 47 h -95 v -94 h -257 v 95 h -512 v -80 h -192 v 48 h -192 v -80 h 97 V 304 h -192 v 81 h -47 v -48 h -993 v 47 h -32 v -65 h -160 v 66 h 80 v 14 h -32 v 34 h 273 v 14 h -49 v 65 h 832 v -65 h -48 v -15 h 176 v 112 h 79 v 79 h -176 v -48 h -127 v 65 h -64 v -66 h -128 v 33 h -480 v -32 h -49 v 65 h -15 v 46 h -64 v -62 h 16 v -48 h -497 v 50 h -98 V 303 h -189 v 16 h 49 v 19 h -47 v 207 h 63 v 16 h -65 v 127 h 49 v 15 h -49 v 97 h 49 v 16 h -48 v 225 h 48 v 15 h -49 v 223 h 50 v 17 h -49 v 289 h -321 v -399 h -32 v -18 h 32 V 816 464 h -32 v -16 h 32 V 305 h -111 v 16 h -50 v -16 h -30 v 81 h -66 V 337 H 2465 V 307.55364 L 2451.4498,321 H 2427.547 L 2413,335.44994 2398.0039,320.55392 2385,333.44222 V 351 h -16 v -16 h -33 V 305.54692 L 2320.4558,321 h -15.9162 L 2287.0012,338.45707 2270.0048,321.5489 2256,335.44636 V 354 h -16 v -17 h -33 V 306.55364 L 2193.4498,320 h -18.9102 L 2157.006,337.45232 2143.0021,323.55571 2130,336.44222 V 353 h -19 v -19 h -31 V 307.55778 L 2067.4462,320 h -20.9044 L 2030.003,336.45289 2015,321.55006 2000,336.44994 V 350 h -14 v -15 h -33 V 305.55364 L 1939.4498,319 h -20.9122 l -18.5323,18.45522 -14.999,-14.89888 L 1873,334.43739 V 352 h -18 V 335 H 1326 V 304.55006 L 1311.453,319 h -15.9134 L 1278.0042,336.45412 1263,321.55006 1248,336.44994 V 351 h -17 v -16 h -15 V 306.55778 L 1203.4462,319 h -20.9044 l -16.5388,16.45289 -15.0046,-14.9044 L 1135,336.45308 V 354 h -15 v 30 h -46 V 315.53411 L 1052.4673,337 H 1040 v 14 h -15 V 322 H 913 v 29 h 32 v 51 h 16 v -19 h 15 v 17 h 65 v 15 H 897 V 401 H 880 V 384 H 815 V 337 H 590 v 94 h 595 v 49 h 32 v 15 h 16 v 17 h 110 v -66 h 64 v 58 h 33 v -55 h 64 v 23 h 31 v -8 h 65 v -16 h 30.5 30.5 v 56 h 34 v -57 h 66 v 25 h 30 v -9 h 64 v 15 h 64 v 66 h 129 v -65 h 64 v 33 h 482 v -63 h -66 v -17 h 176 v 17 h -49 v 113 h 49 v 14 h -47 v 222 h 46 v 16 h -46 v 290 h -48 v -47 h -737 v 46 h -33 v -64 h -160 v 65 h 81 v 15 h -32 v 34 h 272 v 15 h -50 v 63 h 577 v -61 h -49 v -19 h 228 v 17 h -50 v 111 h 50 v 17 h -50 v 207 h 65 v 18 h -65 v 127 h 48 v 16 h -49 v 97 h 50 v 14 h -49 v 226 h 48 v 16 h -47 v 224 h 47 v 15 h -49 v 223 h 50 v 18 h -50 v 224 h 49 v 16 h -48 v 223 h 48 v 16 h -48 l -0.1767,288.972 -63.8233,0.346 v -50.6129 l -128.181,1.4674 1.3912,-31.6725 -15.7544,15.5 -17.9558,0.058 -16,14.8043 -15.4984,-15.3134 -15.0016,14.9014 v 18.5501 h -17 v -30.4558 l -17,16.9116 -16.9952,-16.9069 -14.0048,13.8975 v 15.5536 h -18 v 145 h -125 v -161 h -98 v -30.4464 l -13.5502,13.4464 h -16.9102 l -17.5354,17.4541 -15.0024,-14.9023 -14.0018,13.8946 v 15.5536 h -18 v -14 h -31 v -32.4499 l -14.547,14.4499 h -19.9134 l -17.5354,17.4541 -15.0024,-14.9023 -14.0018,13.8946 v 17.5536 h -17 v -42.4422 l -12.5538,12.4422 h -18.902 l -15.5456,15.4545 -16.9956,-16.9074 -15.003,14.9028 v 15.5501 h -16 v -16 h -33 v -28.4422 l -12.5538,12.4422 h -17.9086 l -18.5339,18.4568 -15.9982,-15.9044 -13.0055,12.8898 v 15.5578 h -17 v 34 h -63 v -65 h -17.4582 l -16.5388,16.4529 -15.0046,-14.9044 -15.9984,15.9046 v 15.5469 h -17 v -17 h -31 v -30.4464 l -13.5502,13.4464 h -20.9056 l -15.5408,15.4497 -14.0068,-13.8994 -15.9966,15.9028 v 46.5469 h -63 v -47 h -129 v -30.4499 l -14.547,14.4499 h -17.9112 l -16.5404,16.4545 -15.9998,-15.906 -15.0016,14.9014 v 16.5501 h -15 v -15 h -32 v -31.4499 l -14.547,14.4499 h -21.906 l -14.5452,14.4482 -14.0036,-13.8968 L 977,3215.4499 V 3232 h -18 v -16 H 943.5 928 v -30.4422 L 915.44619,3198 H 893.53957 L 876.00601,3215.4523 862,3201.5536 848,3215.4464 V 3232 h -15 v -17 h -35 v -29.4422 L 785.44619,3198 H 767.53758 L 749.00711,3216.4534 735,3202.5536 721,3216.4464 V 3233 h -17 v -17 h -34 v -30.4464 L 656.44981,3199 h -15.91223 l -18.53385,18.4568 -16.00035,-15.9065 L 592,3215.4464 V 3232 h -15 v -16 H 415 v -30.4464 L 401.44981,3199 H 381.53957 L 364.0042,3216.4541 349.00389,3201.5539 336,3214.4422 V 3232 h -16 v 160 h 48 v -33 h 15 v 15 h 16 v 19 h 16 v -50 h 17 v 47 h 15 v -14 h 16 v -17 h 18 v 33 h 175 v -16 h 113 v 16 h 543 v -63 h -64 v -18 h 159 v 64 h -32 v 65 h 49 v 16 h -49 v 225 h 49 v 15 h -49 v 224 h 49 v 18 h -47 v 206 h 63 v 16 h -65 v 128 h 49 v 16 h -48 v 80 h 193 z"
+       id="path9400" />
+  </g>
+</svg>
